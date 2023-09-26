@@ -1,0 +1,31 @@
+.signup-bg {
+  background-color: aqua;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.signupform {
+  background-color: white;
+  padding: 2em;
+  border-radius: 10px;
+}
+.signupform h1 {
+  padding: 10px;
+}
+.signupform div {
+  display: flex;
+  flex-direction: column;
+}
+.signupform div label {
+  padding-bottom: 10px;
+  font-size: 18px;
+}
+.signupform div input {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.registerbtn {
+  text-align: center;
+}
